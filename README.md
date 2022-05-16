@@ -1,4 +1,4 @@
-# ExamenTIC2 - 3ºTrimestre
+# Examen TIC2 - 3ºTrimestre
 ## Realiza los siguientes ejercicios:
 
 ### El alumnado de 2º Bachillerato se enfrenta a los exámenes finales con mucha ilusión. Para ayudar a tus compañeros a que no estén preocupados por las calificaciones que están obteniendo has decidido crear un programa que se encargue de guardar sus calificaciones
