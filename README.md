@@ -4,11 +4,11 @@
 ### El alumnado de 2º Bachillerato se enfrenta a los exámenes finales con mucha ilusión. Para ayudar a tus compañeros a que no estén preocupados por las calificaciones que están obteniendo has decidido crear un programa que se encargue de guardar sus calificaciones
 
 1. (1p) Crea una función que imprima por pantalla un menú con las opciones: 
-    1- Guardar asignatura 
-    2- Borrar asignatura
-    3- Ver Nota media
-    4- Ver todas las asignaturas
-    5- Salir
+    1. Guardar asignatura 
+    2. Borrar asignatura
+    3. Ver Nota media
+    4. Ver todas las asignaturas
+    5. Salir
 
 La función tiene que devolver la opción seleccionada como entero y hay que controlar que el programa no finalice ante un error.
 
@@ -23,8 +23,8 @@ La función tiene que devolver la opción seleccionada como entero y hay que con
 6. (1p) Implementa la opción 3 del menú. Para ello, crea una función que devuelva la nota media de todas las notas que tiene el alumno. Las notas del alumno serán la lista de notas del ejercicio 5.
 
 7. (1p) Crea una función que muestre por pantalla las asignaturas. ¡OJO! Nos han pedido que NO se muestre la lista, se tiene que ver con el siguiente formato:
-*********** Asignaturas matriculadas **************
-1- MATEMÁTICAS
+*********** Asignaturas matriculadas **************\n
+1- MATEMÁTICAS\n
 2- INGLES
 3- PROGRAMACIÓN
 *********** Fin asignaturas matriculadas **************
