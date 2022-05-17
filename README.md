@@ -16,7 +16,7 @@ La función tiene que devolver la opción seleccionada como entero y hay que con
 
 3. (1p) Implementa la opción 1 del menú, para ello, crea una función que reciba como parámetro una lista de asignaturas y la devuelva con un elemento que pedirás por teclado dentro de la función.
 
-4. (1p) Implementa la opción 2 del menú. Crea una función que no reciba parámetros, dentro se pedirá el nombre de una asignatura y se borrará de la lista. En caso de borrarse la función devolverá Verdadero y Falso si no se ha podido borrar. Ten en cuenta que no tiene que importar si la asignatura está guardada en mayúscula o minúscula.
+4. (1p) Implementa la opción 2 del menú. Dentro de la función se pedirá el nombre de una asignatura y se borrará de la lista. En caso de borrarse la función devolverá Verdadero y Falso si no se ha podido borrar. Ten en cuenta que no tiene que importar si la asignatura está guardada en mayúscula o minúscula.
 
 5. (1p) Crea una función que devuelve una lista con un número de elementos que se pasa como parámetro. Los números serán aleatorios entre el 0-10
 
